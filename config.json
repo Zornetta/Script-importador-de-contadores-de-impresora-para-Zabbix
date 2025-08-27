@@ -1,0 +1,4 @@
+{
+    "zabbix_server": "http://filler.example.com/zabbix/api_jsonrpc.php",
+    "api_token": "FILLER_API_TOKEN"
+}
